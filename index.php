@@ -1,3 +1,5 @@
-<?php
+<?php 
 
-// silence is golden.
+include "noof.php";
+
+NOOF::run();
